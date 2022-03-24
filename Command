@@ -2,7 +2,7 @@ echo "# название" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/stanruss/название.git
+git remote add origin https://github.com/LitYar/название.git
 git push -u origin master
 
 git log --oneline - посмотреть все коммиты.
